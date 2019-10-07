@@ -7,9 +7,7 @@ Nombre: Misael Garcés
 
 Edad: 18 años
 
-
-Educación: 
-
+<b>Educación:</b>
 Centro Bilingue Vista Alegre
 
 Universidad de Panamá
