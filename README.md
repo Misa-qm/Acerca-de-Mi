@@ -2,12 +2,15 @@
 Datos personales del propietario de la página
 
 
-Nombre: Misael Garcés
+<b>Nombre:</b>
+Misael Garcés
 
 
-Edad: 18 años
+<b>Edad:</b>
+18 años
 
 <b>Educación:</b>
+
 Centro Bilingue Vista Alegre
 
 Universidad de Panamá
