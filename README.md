@@ -13,3 +13,12 @@ Misael Garcés
 <b>Educación:</b>
 Centro Bilngue Vista Alegre; 
 Universidad de Panamá
+
+<b>Contactos:</b>
+Gokú Sanchéz
+
+Kick Buttowski
+
+Marulanda Kakachi
+
+
