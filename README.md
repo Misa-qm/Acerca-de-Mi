@@ -15,10 +15,8 @@ Centro Bilngue Vista Alegre;
 Universidad de Panamá
 
 <b>Contactos:</b>
-Gokú Sanchéz
-
-Kick Buttowski
-
+Gokú Sanchéz, 
+Kick Buttowski, 
 Marulanda Kakachi
 
 
