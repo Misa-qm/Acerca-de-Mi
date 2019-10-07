@@ -10,7 +10,5 @@ Misael Garcés
 18 años
 
 <b>Educación:</b>
-
-Centro Bilingue Vista Alegre
-
+Centro Bilngue Vista Alegre; 
 Universidad de Panamá
