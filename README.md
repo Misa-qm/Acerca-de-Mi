@@ -14,7 +14,7 @@ Misael Garcés
 Centro Bilngue Vista Alegre; 
 Universidad de Panamá
 
-<b>Contactos:</b>
+<b>Contactos de Redes:</b>
 <p>Facebook: <a href="https://www.facebook.com/misael.garces.56"> Misael Garcés </a></p>
 <p>Instagram: <a href="https://www.instagram.com/misag10/?hl=es-la"> @misag10 </a></p>
 <p>Twitter: <a href="https://twitter.com/MisaelGarces1"> @MisaelGarces1 </a></p>
